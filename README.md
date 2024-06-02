@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 📫 I’m currently working on an app to reinforce my understanding about react's side effects and asynchronicity.
 - 💻 I've been coding in javascript primarily for over a year now, currently focused in typescript.
-- 🌱 I’m learning React Testing and VueJS at the moment.
+- 🌱 I’m learning React and VueJS at the moment.
