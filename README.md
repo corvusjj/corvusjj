@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 I’m currently working on an app to reinforce my understanding about react's side effects and asynchronicity.
-- 💻 I've been coding in javascript primarily for over a year now, currently focused in typescript.
+- 📫 I’m currently working on an app to reinforce my understanding about react-router and react-testing.
+- 💻 I've been developing apps with vanilla JS primarily for over a year now, currently focused in Typescript.
 - 🌱 I’m learning React and VueJS at the moment.
