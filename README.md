@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 📫 I’m currently working on an app to reinforce my understanding about react-router and react-testing.
 - 💻 I've been developing apps with vanilla JS & SCSS primarily for over a year now, currently focused in Typescript.
-- 🌱 I’m learning React and VueJS at the moment.
+- 🌱 I’m learning React and CS50x at the moment.
